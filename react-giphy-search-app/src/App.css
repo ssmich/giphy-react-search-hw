@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+body {
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+  margin: 0px;
+  padding-top: 10px;
+}
+p {
+  justify-content: center;
+  text-align: center;
+  margin: 0px;
+}
+.searchInput {
+  justify-content: center;
+}
+.search {
+  margin: 20px;
+  justify-content: center;
+  display: flex;
+}
+.gifItem {
+  margin-bottom: 10px;
+  padding: 20px;
+}
+/* .pageResults {
+  display: flex;
+  flex-direction: row;
+}
+.giphyResult {
+  width: 200px;
+} */
+/* ul {
+  width: 50px;
+} */
